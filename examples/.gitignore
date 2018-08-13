@@ -1,3 +1,6 @@
+# emacs generated files
+*~
+
 # auto-generated rpc files
 rpc/multithreaded-square/Makefile.square
 rpc/multithreaded-square/square.h
