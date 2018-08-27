@@ -17,8 +17,8 @@ Legend:
 - [ ] RMI/RPC
   - [X] ex1-HelloServer
   - [X] ex2-SquareServer
-  - [ ] ex3-Client-Callback
-  - [ ] ex4-Asynchronous-Server
+  - [X] ex3-Client-Callback
+  - [X] ex4-Asynchronous-Server
   - [ ] ex5-Load-Remote-Class
   - [ ] ex6-RMI-Thread-Safety
   - [ ] ex7-PassingArgsInRMI
