@@ -1,13 +1,31 @@
-# Go Examples
+# Go 1.9 Examples
 A collection of examples written in the Go language
+
+## Useful resources
+
+https://tour.golang.org/
+
+https://gobyexample.com/
+
+https://golangbot.com/
+
+https://golang.org/doc/ is the official documentation, and also provides links to direct source code of all standard Go functions or any that have been incorporated from third parties.
+
+
+## Grains of Salt
+
+These examples were provided by a student, not a Go master.  Further, they were written to bridge the gap between how it looks in Java vs Go.  They are not necessarily good representations of how to perform these actions in the Go language.
+
+Further, this was written when Go 1.9 was the newest version.  A lot of these examples compare to the Java version, and Java is big on reflection and generics.  Go 1.9 notably lacks these in the same robustness, and the examples reflect that.
+
 
 ## Completed
 
 Legend:
 
 * X - Done
-* N - Not doing (Refer to README in that directory)
-* ? - Potentially unapplicable to Go?
+* N - N/A (Refer to README in that directory)
+* ? - Possibly inapplicable to Go
 
 - [X] Lambdas
 - [ ] Misc
